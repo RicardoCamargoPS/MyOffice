@@ -4,7 +4,7 @@ import javax.swing.JToolBar;
 
 /*
  * 
- * Editor de texto
+ * Editor de texto e planilha
  * Barra de ferramentas responsavel pelas
  * ferramentas de edição das Font
  * 
